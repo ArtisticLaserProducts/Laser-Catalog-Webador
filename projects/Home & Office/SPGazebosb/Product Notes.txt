@@ -1,0 +1,14 @@
+Size at 3mm
+L= 432
+W = 89
+H = 245
+
+
+Size at 1/8 inch
+L = 17	
+W = 3.5
+H = 9.625
+
+Largest Part
+9 X 17 inches
+230 X 432 mm

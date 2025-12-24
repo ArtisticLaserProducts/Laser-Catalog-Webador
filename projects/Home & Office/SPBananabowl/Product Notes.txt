@@ -1,0 +1,14 @@
+Size at 6mm
+L= 280
+W = 280
+H = 127
+
+
+Size at 1/4 inch
+L = 11	
+W = 11
+H = 5
+
+Largest Part
+9 X 9 inches
+229 X 229 mm

@@ -1,0 +1,18 @@
+Approximate Size at 6mm
+L= 254
+W = 305
+H = 205
+
+
+Approximate Size at 1/4 inch
+L = 10
+W = 12
+H = 8
+
+Approximate Largest Part
+12 X 4 inches
+305 X 102  mm
+
+Approximate Part Number:  6
+
+

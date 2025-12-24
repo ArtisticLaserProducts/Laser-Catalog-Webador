@@ -1,0 +1,5 @@
+In this puzzle the green layer (Layer 1) Is to be cut from double the thickness of the rest of the puzzle.
+Example in a 1-4 (.25) inch puzzle you would cut the green layer (Layer 1) out of 1/2 (.5) inch wood.
+
+Also in this puzzles assembly guide, the photo of the parts list shows there being three train hooks when
+there is only supposed to be two. The dxf is correct. We are sorry for an confusion this may have caused.

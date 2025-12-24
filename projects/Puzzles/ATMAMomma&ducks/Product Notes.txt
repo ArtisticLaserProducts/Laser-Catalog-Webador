@@ -1,0 +1,24 @@
+Approximate Size at 6mm
+L= 204
+W = 127
+H = 229
+
+Approximate Size at 1/4 inch
+L = 8
+W = 5
+H = 9
+
+
+Approximate Largest Part
+11 X 5 inches
+280 X 127 mm
+
+Dowel Size (Diameter)
+0.25 dia:  4 X 0.875"
+           2 X 2.5"
+        
+6 mm    :  4 X 23 mm
+           2 X 64 mm
+
+Approximate Part Number: 24
+          

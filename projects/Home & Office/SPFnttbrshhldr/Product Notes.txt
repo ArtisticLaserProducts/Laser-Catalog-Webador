@@ -1,0 +1,15 @@
+Size at 6mm
+L= 89
+W = 89
+H = 114
+
+
+Size at 1/4 inch
+L = 3.5
+W = 3.5
+H = 4.5
+
+Largest Part
+
+3.8 X 2.5 inches
+97 X 64 mm

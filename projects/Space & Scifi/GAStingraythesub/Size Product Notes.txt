@@ -1,0 +1,16 @@
+Approximate Size at 3mm
+L= 348
+W = 124
+H = 94
+
+
+Approximate Size at 1/8 inch
+L = 13.7
+W = 4.9
+H = 3.7
+
+Approximate Size of Largest Part
+11.5 X 5 inches
+292 X 127 mm
+
+Approximate Part Number: 55

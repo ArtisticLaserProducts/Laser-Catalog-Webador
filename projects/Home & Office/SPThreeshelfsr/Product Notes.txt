@@ -1,0 +1,14 @@
+Size at 6mm
+L= 458
+W = 134
+H = 458
+
+
+Size at 1/4 inch
+L = 18	
+W = 5.25
+H = 18
+
+Largest Part
+18 X 18 inches
+458 X 458 mm

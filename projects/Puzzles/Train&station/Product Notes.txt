@@ -1,0 +1,29 @@
+Approximate Size at 3mm
+L= 331
+W = 216
+H = 204
+
+
+Approximate Size at 1/8 inch
+L = 13
+W = 8.5
+H = 8
+
+Approximate Largest Part
+11 X 8.5 inches
+280 X 216 mm
+
+Approximate Dowel Size (Diameter)
+0.25 dia:  7 X 0.5"
+           1 X 1.5"
+
+0.5 dia :  1 X 3"
+           1 X 4.75"
+           
+6 mm    :  7 X 13mm
+           1 X 39 mm
+
+12mm    :  1 X 77 mm
+           1 X 121 mm
+
+Approximate Part Number: 48

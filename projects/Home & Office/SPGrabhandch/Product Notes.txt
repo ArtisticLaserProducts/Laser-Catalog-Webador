@@ -1,0 +1,14 @@
+Size at 3mm
+L= 102
+W = 51
+H = 51
+
+
+Size at 1/8 inch
+L = 4	
+W = 2
+H = 2
+
+Largest Part
+4 X 2 inches
+102 X 51 mm

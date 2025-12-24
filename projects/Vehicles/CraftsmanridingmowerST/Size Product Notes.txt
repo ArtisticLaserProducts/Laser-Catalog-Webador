@@ -1,0 +1,18 @@
+Lawn Tractor
+
+Approximate Size at 3mm
+L= 704
+W = 338
+H = 323
+
+
+Approximate Size at 1/8 inch
+L = 27.7
+W = 13.3
+H = 12.7
+
+Approximate Size of Largest Part
+22.3 X 4.5 inches
+566 X 114 mm
+
+Approximate Part Number: 250 (Including Trailer)

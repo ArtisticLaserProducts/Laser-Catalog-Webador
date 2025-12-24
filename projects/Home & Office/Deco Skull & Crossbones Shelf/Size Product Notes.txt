@@ -1,0 +1,14 @@
+Size at 6mm
+L= 254
+W = 254
+H = 267
+
+
+Size at 1/4 inch
+L = 10
+W = 10
+H = 10.5
+
+Largest Part
+10 X 6 inches
+254 X 152 mm

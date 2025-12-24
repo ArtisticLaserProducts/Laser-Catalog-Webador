@@ -1,0 +1,14 @@
+Size at 6mm
+L= 305
+W = 305
+H = 407
+
+
+Size at 1/4 inch
+L = 12
+W = 12
+H = 16
+
+Largest Part
+12 X 12 inches
+305 X 305 mm

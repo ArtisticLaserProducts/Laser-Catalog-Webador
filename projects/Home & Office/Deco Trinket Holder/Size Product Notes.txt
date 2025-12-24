@@ -1,0 +1,14 @@
+Approximate Size at 6mm
+L= 452
+W = 267
+H = 442
+
+
+Approximate Size at 1/4 inch
+L = 17.8
+W = 10.5
+H = 17.4
+
+Approximate Size of Largest Part
+17.4 X 17.8 inches
+442 X 452 mm

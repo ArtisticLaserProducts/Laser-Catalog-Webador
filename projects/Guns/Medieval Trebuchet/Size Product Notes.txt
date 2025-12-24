@@ -1,0 +1,14 @@
+Approximate Size at 3mm
+L= 
+W = 
+H = 
+
+
+Approximate Size at 1/8 inch
+L = 
+W = 
+H = 
+
+Approximate Size of Largest Part
+ X  inches
+ X  mm
