@@ -1,4 +1,0 @@
-This is a set at 18 mm and 3/4 inch because they are real furniture.
-If you want to make them as models with your laser cutter just scale
-them down to 3mm or 1-8 Inch. It's that Simple with our makeCNC Scale 
-Calculator. See Below Link in product description.
