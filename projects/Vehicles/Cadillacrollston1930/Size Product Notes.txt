@@ -1,8 +1,7 @@
 Approximate Size at 3mm
-L= 439
+L = 439
 W = 175
 H = 109
-
 
 Approximate Size at 1/8 inch
 L = 17.3
